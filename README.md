@@ -1,6 +1,7 @@
-![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/_README/JSAdvanced.jpg)
+![JS-Advanced-September-2021](https://github.com/MiroRuskov/SoftUni-JS-Advanced-September-2021/blob/main/_README/JS-Advanced-Certificate.png)
 
-![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/_README/JS-Advanced-Certificate.png)
+
+![JS-Advanced-September-2019](https://github.com/MiroRuskov/SoftUni-JS-Advanced-September-2019/blob/master/_README/JS-Advanced-JSAdvanced.png)
 
 ---
 
