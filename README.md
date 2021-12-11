@@ -1,5 +1,5 @@
 ![JS-Advanced-September-2021](https://github.com/MiroRuskov/SoftUni-JS-Advanced-September-2021/blob/main/_README/JSAdvanced.jpg)
-![JS-Advanced-September-2021](https://github.com/MiroRuskov/SoftUni-JS-Advanced-September-2021/blob/main/_README/JS-Advanced-Certificate.jpg)
+![JS-Advanced-September-2021](https://github.com/MiroRuskov/SoftUni-JS-Advanced-September-2021/blob/main/_README/Advanced-Certificate.jpg)
 
 
 ---
